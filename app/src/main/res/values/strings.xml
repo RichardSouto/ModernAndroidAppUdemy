@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ModernApp</string>
+    <string name="an_error_ocurred_while_loading_data">An error ocurred while loading Data.</string>
+</resources>
